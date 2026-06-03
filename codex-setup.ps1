@@ -1,4 +1,4 @@
-# Codex 中转站一键配置脚本 (Windows / PowerShell)
+﻿# Codex 中转站一键配置脚本 (Windows / PowerShell)
 #
 # 用法(推荐, 跑完按提示粘贴 API Key):
 #   irm https://你的域名/codex-setup.ps1 | iex
